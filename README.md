@@ -6,12 +6,11 @@ A Monte Carlo–based climate risk stress testing framework that quantifies extr
 
 Traditional climate risk models rely on linear vulnerability scores and independent hazard assumptions — both of which **underestimate tail risk**. This project builds a systemic, tail-focused climate risk engine that captures:
 
-- **Correlated hazard shocks** (heat + drought strike together)
-- **Nonlinear/convex damage functions** (losses accelerate past thresholds)
+- **Correlated hazard shocks** 
+- **Nonlinear/convex damage functions** 
 - **Regime-switching** (normal vs crisis climate states)
-- **Contagion cascades** (regional spillovers amplify losses)
-- **Multi-period path dependence** (consecutive stress years compound)
-
+- **Contagion cascades** 
+- **Multi-period path dependence**
 
 ## Methodology
 
