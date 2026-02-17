@@ -68,24 +68,6 @@ The framework expects an Excel file with three sheets:
 | Probability | 85% | 15% |
 | Markov persistence | 90% | 40% |
 
----
-
-## Visualisations Produced
-
-- Loss distribution histograms with VaR/CVaR lines
-- Scenario comparison overlays (Orderly / Current / Hot House)
-- Asset-level CVaR bar charts
-- Geospatial CVaR heatmaps (world map)
-- Normal vs Crisis regime distributions
-- Pre/post contagion regional bar charts
-- CVaR-optimal portfolio weights
-- Equal-weight vs optimal loss distribution overlay
-- Multi-period fan chart (10-year cumulative)
-- Terminal loss distribution
-- Year-by-year CVaR evolution
-- 4-panel institutional dashboard
-
----
 
 ## Future Roadmap
 
